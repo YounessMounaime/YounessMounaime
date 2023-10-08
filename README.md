@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youness Mounaime</h1>
 <h3 align="center">Software Engineer Student EMSI-Rabat-Morocco</h3>
-<p align="right"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*w1BTUZctqyEYJrldIqJXqg.gif" alt="younessmounaime" /> </p>
+<img  align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*w1BTUZctqyEYJrldIqJXqg.gif" alt="younessmounaime" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
